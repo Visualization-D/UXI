@@ -2,7 +2,7 @@
 
 **Author:** Prof. Mohammad Lataifeh @ University of Sharjah
 
-**Hosted application:** https://visualization-d.github.io/UXH/
+**Hosted application:** https://visualization-d.github.io/UXI/
 
 ## Professional UX evaluation in one workspace
 
